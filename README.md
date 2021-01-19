@@ -1,4 +1,4 @@
-# Getting Started with React Project With Hooks
+# Getting Started with GitHub Searcher Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
